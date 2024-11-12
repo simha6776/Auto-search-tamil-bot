@@ -200,8 +200,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/TeamHMT_Movie> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
-▫️<a href=https://t.me/+aLArXSwMmKlkN2Nl> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/+W0X_378Gr-hmYTM1> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
+▫️<a href=https://t.me/+JiVi4by2Aag3MzE1> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
